@@ -1,1 +1,11 @@
 /* your code */
+th{
+	background-color:skyblue;
+}
+table{
+	border:1px dotted deepskyblue;
+	border-radius:2px
+}
+th:nth-child(even), {
+  background-color:pink ;
+}
